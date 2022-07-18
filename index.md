@@ -12,6 +12,11 @@
 > >
 > > 这些主要是参加ZTE电磁计算的一些笔记文档。因为我发现自己确实不擅长算法开发，也没有做很多工作。因为最近的要求，[我更新了一份个人CV](https://changlinwu.github.io/personalCV.pdf)
 > >
+> > [updatacertification](https://changlinwu.github.io/Part_1_合作简介_Introducing_collaboration-Certificate_20220710-110603.pdf)
+> > [updatacertification](https://changlinwu.github.io/Part_1_撰写研究论文_Writing_a_Research_Paper-Certificate_2022077-084551.pdf)
+> > [updatacertification](https://changlinwu.github.io/Part_2_发表研究论文_Publishing_a_research_paper-Certificate_2022079-161508.pdf)
+> > [updatacertification](https://changlinwu.github.io/Part_3_撰写与发表综述论文_Writing_and_publishing_a_review_paper-Certificate_20220710-082954.pdf)
+> > [updatacertification](https://changlinwu.github.io/certificate.pdf)
 > > 
 
 后续还想更新一些命令行笔记和工艺的笔记。但是可能要稍晚一些，已经两个月没有办法动了。
