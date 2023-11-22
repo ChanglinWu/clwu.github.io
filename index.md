@@ -1,7 +1,8 @@
 ## Welcome to My Personal Webpage!!
 
-When I was an undergraduate in Wuhan around 2018, my internet tutor taught me how to create and beautify a web page. After many years, I still keep the habit of updating my personal webpage and saving old server documents. 
+When I was an undergraduate in Wuhan around 2018, my internet tutor taught me how to create and beautify a web page. After many years, I still keep the habit of updating my personal webpage and saving old server documents. GitHub is an excellent platform. I hope the     Internet can trace my growth month by month.   --22/11/23  
 
+**CV**: I was born in a beatiful place of Fujian Provice. In 2016, 
 	  Later, I went to Shanghai Institute of Microsystem and Information Technology, and started my postgraduate studies. As a student of the Chinese Academy of Sciences, I spent my first year at University of Science and Technology of China. In one year's study, I learned the manufacturing technology of optoelectronic devices, and also learned the skills of image processing. This is the most memorable moment in my life. I made many real friends and learned many skills beyond my major. <br>
 	  Now I am going back to Simit institute to complete my postgraduate course. I can use simulation software such as COMSOL, PSpice, the circuit design software L-Edit, Illustrator, PhotoShop and other post-processing software. I can independently simulate the electric magnetic wave behaviour though both commercial software or by self-program. And I am also familiar with the semiconductor fabrication procedures, as I received training from ShanghaiTech Quantum Device Lab. <br>
 	  </font>
