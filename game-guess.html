@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="zh-cn">
+<head>
+  <meta charset="UTF-8">
+  <title>猜数字游戏</title>
+  <style>
+    /* 添加游戏界面的样式 */
+    #game-board {
+      width: 600px;
+      height: 400px;
+      background-color: #eee;
+      margin: 0 auto;
+      text-align: center;
+      padding-top: 50px;
+    }
+  </style>
+</head>
+<body>
+  <h1>猜数字游戏</h1>
+  
+  <div id="game-board">
+    <h2>猜一个 1~100 的随机数</h2>
+    <input type="text" id="guess" placeholder="在这里输入你的猜测">
+    <br><br>
+    <button onclick="checkGuess()">猜</button>
+    <br><br>
+    <p id="result"></p>
+  </div>
+
+  <script>
+    // 生成一个 1~100 的随机数
+    var targetNumber = Math.floor(Math.random() * 100) + 1;
+
+    function checkGuess() {
+      // 获取玩家输入的猜测
+      var guessInput = document.getElementById("guess");
+      var guess = parseInt(guessInput.value);
+
+      // 检查玩家猜测的数字是否正确
+      if (guess === targetNumber) {
+        // 玩家猜测正确，显示胜利信息
+        document.getElementById("result").innerHTML = "恭喜你，猜对了！";
+      } else if (guess > targetNumber) {
+        // 玩家猜测的数字比目标数字大，提示玩家再猜小一点
+        document.getElementById("result").innerHTML = "你猜的数字太大了，再猜小一点。";
+      } else {
+        // 玩家猜测的数字比目标数字小，提示玩家再猜大一点
+        document.getElementById("result").innerHTML = "你猜的数字太小了，再猜大一点。";
+      }
+    }
+  </script>
+</body>
+</html>
