@@ -6,6 +6,8 @@ When I was an undergraduate in Wuhan around 2018, my internet tutor taught me ho
 
 Later, I went to Shanghai Institute of Microsystem and Information Technology, which belongs to the Chinese Academic of Science, as a Microelectronics postgraduate student. I spent my first year at University of Science and Technology of China. And then went back to SIMIT institute to finish the rest study focus on topic about THz near-field microscopy. It was a span of tough days and nights, where I had to do long time multi-physics simulation, do experiments and analyze results by myself. Luckily, I also learned a lot from knowledge to adaptation. 
 
+Now, I am a TD/PIE of a DRAM company in Hefei. Only after graduating from school have I understood the difference between academic and industrialization, which is like the difference between epicure and cook. 
+
 
 首先，这是一个偏博客性质的个人网页，我会上传一些整理的文档。
 > FDTD算法
