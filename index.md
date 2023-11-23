@@ -4,7 +4,7 @@ When I was an undergraduate in Wuhan around 2018, my internet tutor taught me ho
 
 **CV**: I was born in a beatiful place of Fujian Provice. In 2016, I left my hometown and went north to Hubei, where I was a freshman majoring in physics at Huazhong University of Science and Technology. At that time, physics students all fancied relative theory and quantum mechanics. Those who did not perform well in the grades will turn to find a job related to circuit design or hardware. The first time I saw a wafer was at the National University of Singapore, during the summer school and the visit to the Nano laboratory. But we are mostly attracted by the industrialization of growing graphene on the silicon wafer, when the graphene is almost the symbol of "science" in those years. 
 
-Later, I went to Shanghai Institute of Microsystem and Information Technology, which is belong to Chinese Academic of Science, as a Microelectronics postgraduate student. I spent my first year at University of Science and Technology of China. And then went back to SIMIT institute to finish the rest study focus on topic about THz near-field microscopy. 
+Later, I went to Shanghai Institute of Microsystem and Information Technology, which belongs to the Chinese Academic of Science, as a Microelectronics postgraduate student. I spent my first year at University of Science and Technology of China. And then went back to SIMIT institute to finish the rest study focus on topic about THz near-field microscopy. It was a span of tough days and nights, where I had to do long time multi-physics simulation, do experiments and analyze results by myself. Luckily, I also learned a lot from knowledge to adaptation. 
 
 
 首先，这是一个偏博客性质的个人网页，我会上传一些整理的文档。
