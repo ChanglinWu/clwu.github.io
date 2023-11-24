@@ -1,10 +1,19 @@
 ## Welcome to My Personal Webpage!!
+### Publications:
 
-Certifications：
+[Terahertz Nanoscopy of Metal and Gallium Implanted Silicon](https://changlinwu.github.io/2210.16745.pdf)
+
+[Numerical simulation of scanning nearfield optical microscopy based on the source dipole model](https://changlinwu.github.io/643.pdf)
+
+
+### Certifications：
+
 [JMP reliability analysis professional](https://changlinwu.github.io/Changlin_Wu_E0013316.pdf)
 
+[COMSOL Multi-Physics](https://changlinwu.github.io/COMSOL_certificate.pdf)
 
-When I was an undergraduate in Wuhan around 2018, my internet tutor taught me how to create and beautify a web page. After many years, I still keep the habit of updating my personal webpage and saving old server documents. GitHub is an excellent platform. I hope the Internet can trace my growth month by month.   --22/11/23  
+
+*When I was an undergraduate in Wuhan around 2018, my internet tutor taught me how to create and beautify a web page. After many years, I still keep the habit of updating my personal webpage and saving old server documents. GitHub is an excellent platform. I hope the Internet can trace my growth month by month.   --22/11/23*  
 
 **CV**: I was born in a beatiful place of Fujian Provice. In 2016, I left my hometown and went north to Hubei, where I was a freshman majoring in physics at Huazhong University of Science and Technology. At that time, physics students all fancied relative theory and quantum mechanics. Those who did not perform well in the grades will turn to find a job related to circuit design or hardware. The first time I saw a wafer was at the National University of Singapore, during the summer school and the visit to the Nano laboratory. But we are mostly attracted by the industrialization of growing graphene on the silicon wafer, when the graphene is almost the symbol of "science" in those years. 
 
