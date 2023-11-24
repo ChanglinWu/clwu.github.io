@@ -6,10 +6,12 @@ When I was an undergraduate in Wuhan around 2018, my internet tutor taught me ho
 
 Later, I went to Shanghai Institute of Microsystem and Information Technology, which belongs to the Chinese Academic of Science, as a Microelectronics postgraduate student. I spent my first year at University of Science and Technology of China. And then went back to SIMIT institute to finish the rest study focus on topic about THz near-field microscopy. It was a span of tough days and nights, where I had to do long time multi-physics simulation, do experiments and analyze results by myself. Luckily, I also learned a lot from knowledge to adaptation. 
 
-Now, I am a TD/PIE of a DRAM company in Hefei. Only after graduating from school have I understood the difference between academic and industrialization, which is like the difference between epicure and cook. 
+Now, I am a TD/PIE of a DRAM company in Hefei. Only after graduating from school have I understood the difference between academic and industrialization, which is like the difference between epicure and cook. I find it great to keep learning new things and getting different knowledge. Ancestors bring opening and sharing, which will be the mainstream in this wonderful world! 
 
 
-首先，这是一个偏博客性质的个人网页，我会上传一些整理的文档。
+
+
+<!--首先，这是一个偏博客性质的个人网页，我会上传一些整理的文档。
 > FDTD算法
 >
 > > [FDTD-0](https://changlinwu.github.io/FDTD0.html)
@@ -36,3 +38,4 @@ Now, I am a TD/PIE of a DRAM company in Hefei. Only after graduating from school
 先这样，Markdown还是非常好用的，随时有空就来打打字~
 After being trapped in my dormitory for weeks, I decided to retake my numerical computing work. So, I will keep on uploading my reading to this website. You can keep on tracing me, and I am sincerely waiting for your advice.
 You can also visit [my_ustc_webpage](http://home.ustc.edu.cn/~clwu/) for more information.
+-->
