@@ -1,7 +1,7 @@
 ## Welcome to My Personal Webpage!!
 
 Certifications：
-[JMP reliability analysis professional](https://changlinwu.github.io/Changlin Wu E0013316.pdf)
+[JMP reliability analysis professional](https://changlinwu.github.io/Changlin_Wu_E0013316.pdf)
 
 
 When I was an undergraduate in Wuhan around 2018, my internet tutor taught me how to create and beautify a web page. After many years, I still keep the habit of updating my personal webpage and saving old server documents. GitHub is an excellent platform. I hope the Internet can trace my growth month by month.   --22/11/23  
